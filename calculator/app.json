@@ -11,7 +11,7 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/calculatoricon.jpeg",
+    "icon": "./assets/calculatorIcon.jpeg",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -29,6 +29,6 @@
     "android": {
       "package": "com.calculator.calculatorapp"
     },
-    "description": ""
+    "description": "this is my first calculator project"
   }
 }
