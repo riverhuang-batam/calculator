@@ -28,6 +28,7 @@
     },
     "android": {
       "package": "com.calculator.calculatorapp"
-    }
+    },
+    "description": ""
   }
 }
